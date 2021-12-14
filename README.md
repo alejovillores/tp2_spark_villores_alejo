@@ -25,3 +25,4 @@ Ayudante asignado: Natalia Golmar
 
 **Consulta 6:**  <***8***>  [Notebook](https://github.com/alejovillores/tp2_spark_villores_alejo/blob/main/ejercicio_8_v2.ipynb) 
 
+Nota: 10/10
